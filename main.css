@@ -1,0 +1,11 @@
+.main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+th{
+    text-align: left;
+}
+
+td{
+    padding-left: 2em;
+}
